@@ -1,0 +1,7 @@
+# Salidas de compilación locales (docs/ sí se versiona: es lo que publica GitHub Pages)
+dist/
+pwa/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
